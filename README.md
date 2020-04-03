@@ -1,1 +1,3 @@
-# Squirrels_Experiment_COMPLETE_CODE
+## JavaScript code for the squirrels experiment
+
+Remember to pull the latest version of this experiment for the most up-to-date version.
